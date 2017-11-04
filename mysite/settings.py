@@ -25,7 +25,7 @@ SECRET_KEY = '0ry7_8%dlk1f7z^2rq4dg!ikef-^fu!quj6j4glpmx3(+mm-6h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<kutritee>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'kutritee.pythonanywhere.com']
 
 
 # Application definition
